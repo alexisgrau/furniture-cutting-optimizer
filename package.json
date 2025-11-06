@@ -1,0 +1,19 @@
+{
+  "name": "cutting-optimizer",
+  "version": "1.0.0",
+  "description": "Optimiseur de découpe de planches avec visualisation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cutting",
+    "optimizer",
+    "woodworking"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
